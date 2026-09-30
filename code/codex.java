@@ -12,6 +12,7 @@ public class codex {
         svJ.phone = "0987654321";
         svJ.gpa = 5;
         svJ.introduce();
+        System.out.println("Update");
     }
 
 }
